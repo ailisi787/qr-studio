@@ -15,7 +15,9 @@
 
 直接下载安装包（v1.0，约 327KB，Android 7.0+）：
 
-👉 [qr-studio-v1.0.apk](releases/qr-studio-v1.0.apk)
+👉 [qr-studio-v1.0.apk](https://github.com/ailisi787/qr-studio/releases/download/v1.0/qr-studio-v1.0.apk)
+
+也可以在 [Releases](https://github.com/ailisi787/qr-studio/releases) 页面下载。
 
 安装时如提示"未知来源"，允许本次安装即可（测试签名包）。
 
